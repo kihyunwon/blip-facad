@@ -1,0 +1,8 @@
+trl
+sagemaker
+datasets
+pillow
+torch==2.4.1
+peft
+gdown
+h5py
